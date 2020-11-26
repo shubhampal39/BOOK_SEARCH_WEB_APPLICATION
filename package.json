@@ -1,0 +1,25 @@
+{
+  "name": "book-search-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhampal39/book-search-Engine.git"
+  },
+  "author": "shubham pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhampal39/book-search-Engine/issues"
+  },
+  "homepage": "https://github.com/shubhampal39/book-search-Engine#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "hbs": "^4.1.1"
+  }
+}
